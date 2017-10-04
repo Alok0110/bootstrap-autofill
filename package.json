@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-autofill",
+  "version": "1.0.0",
+  "description": "bootstrap-autofill",
+  "main": "resources/js/bootstrap-autofill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alok0110/bootstrap-autofill.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "autofill"
+  ],
+  "author": "Alok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alok0110/bootstrap-autofill/issues",
+    "email": "det.alex0110@gmail.com"
+  },
+  "homepage": "https://github.com/Alok0110/bootstrap-autofill#readme"
+}
