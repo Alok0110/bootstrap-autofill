@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-autofill",
+  "homepage": "https://github.com/Alok0110/bootstrap-autofill",
+  "authors": [
+    "Alok Dethe <dethealok@gmail.com>"
+  ],
+  "description": "bootstrap autofill functionality",
+  "main": "index.html",
+  "keywords": [
+    "bootstrap",
+    "autofill"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
